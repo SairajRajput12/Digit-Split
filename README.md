@@ -4,6 +4,13 @@ The **Expense Management System** is a web application built with **Angular** th
 
 ---
 
+## Members:
+
+- **Ankur Pandey**
+- **Harshita Mahajan**
+- **Sairaj Rajput**
+- **Sapna rani**
+
 ## 🚀 Features
 
 - 👥 **Group Management**: Create groups and add members.
