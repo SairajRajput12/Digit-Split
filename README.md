@@ -38,7 +38,7 @@ The app follows a **feature-first structure** with clear separation of concerns:
 
 ### 1️⃣ Clone the Repository
 
-````bash
+```bash
 git clone <repository_url>
 cd expense-management-system
 ```
@@ -49,10 +49,12 @@ Here it is:
 ## 🛠️ Installation & Setup
 
 ### 1️⃣ Clone the Repository
+
 ```bash
 git clone <repository_url>
 cd expense-management-system
 ```
+
 2️⃣ Install Dependencies
 
 ```bash
@@ -85,4 +87,4 @@ Start server with production build:
 
 ```bash
 node server.js
-````
+```
