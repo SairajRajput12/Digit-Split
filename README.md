@@ -52,24 +52,25 @@ Routing → Authentication, group listing, and expense logging with guards.
 
 ## 🛠️ Installation & Setup
 
-1️⃣ Clone the Repository
-
-git clone <repository_url>
-cd expense-management-system
+1️⃣ Extract zip file called Digit Split and navigate to cssFinal
 
 2️⃣ Install Dependencies
 
-npm install
+```
+    npm install
+```
 
-3️⃣ Run in Development Mode
+1. Start Angular app:
 
-Start Angular app:
-
+```
 ng serve
+```
 
 Start JSON Server:
 
+```
 npm run json
+```
 
 4️⃣ Run Production Build
 
@@ -87,7 +88,7 @@ node server.js
 
 Frontend: Angular
 
-Backend: Node.js + Express
+Backend: Node.js + Express for production and Json server for development.
 
 Authentication: JWT
 
