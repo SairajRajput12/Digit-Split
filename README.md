@@ -41,7 +41,7 @@ The app follows a **feature-first structure** with clear separation of concerns:
 ````bash
 git clone <repository_url>
 cd expense-management-system
-
+```
 
 Perfect 👍 You want me to give you the Installation & Setup part (with commands) in README.md format inside a code block.
 Here it is:
