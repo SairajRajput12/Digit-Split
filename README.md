@@ -52,29 +52,37 @@ Here it is:
 ```bash
 git clone <repository_url>
 cd expense-management-system
-
+```
 2️⃣ Install Dependencies
 
+```bash
 npm install
+```
 
 3️⃣ Run in Development Mode
 
 Start Angular app:
 
+```bash
 ng serve
+```
 
 Start JSON Server:
 
+```bash
 npm run json
-
+```
 
 4️⃣ Run Production Build
 
 Build Angular app:
 
+```bash
 ng build --prod
+```
 
 Start server with production build:
 
+```bash
 node server.js
 ````
